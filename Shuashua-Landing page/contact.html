@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuashua</title>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="./Assets/My-Icon.png" type="image/x-icon" />
+    <!-- normalize -->
+    <link rel="stylesheet" href="./normalize.css" />
+    <!-- font-awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+    <!-- main css -->
+    <link rel="stylesheet" href="./main.css" />
+</head>
+
+<body>
+    <nav class="navbar">
+
+        <div class="nav-center">
+
+            <div class="nav-header">
+                <a href="index.html" class="nav-logo">
+                    <img src="./Assets/Logo.png" draggable="false" alt="Logo not found">
+                </a>
+
+                <button type="button" class="btn nav-btn">
+                    <i class="fas fa-bars" class="links-btn"></i>
+                </button>
+            </div>
+
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">home</a>
+                <a href="designs.html" class="nav-link">my designs</a>
+                <a href="About.html" class="nav-link" id="underline-link">about</a>
+
+                <div class="contact-link">
+                    <a href="contact.html" class="links-btn">contact</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- end of nav -->
+    
+    <!-- main -->
+    <!-- <section class="contact-container">
+
+        <div class="contact-container-grid">
+
+            <div class="contact-form">
+                <form action="">
+                    
+                </form>
+            </div>
+        </div>
+
+    </section> -->
+    <section class="form-bg">
+
+        <div class="form-center">
+            <form action="/action_page.php" class="form-left" method="post" autocomplete="off">
+                <h1>Let's work together</h1>
+                <div class="form-text">
+                    <input type="text" class="text" id="fname" name="fname" placeholder="First name" size="8">
+                    <input type="text" class="text" id="lname" name="lname" placeholder="Last name" size="8">
+                </div>
+                <textarea name="message" class="message" rows="7" cols="50" placeholder="message"></textarea><br>
+                <div class="form-button">
+                    <input type="submit" class="submit" value="submit" onclick="alert('Thank you :)')">
+                    <h5>or email me:</h5>
+                    <a href="https://mail.google.com/mail/u/0/?ogbl#inbox? compose=GTvVlcRwPxSPdVBqFNCXntnLhFgfHrPtMrMftHZBKCPTCJHkNDTCWWLvmpwpLXcxHwJCbqzDfGtdC">sykojuice021@gmail.com</a>
+                </div>
+            </form>
+
+            <div class="form-right">
+                <i class="fas fa-envelope-open-text"></i>
+                <!-- <img src="https://play-lh.googleusercontent.com/HYbCzhAI27G_Hd2F-qPKHZJq6O7Xfrli6GjH-MPfCT5QeQdytUx_PxDE8idRqOn4lXQ"alt=""> -->
+            </div>
+        </div>
+        
+    </section>
+    <!-- end of main -->    
+
+    <!-- footer -->
+    <footer class="page-footer">
+    
+        <div class="footer-logo">
+            <img src="./Assets/Logo.png" alt="">
+        </div>
+        <p>
+            &copy; <span id="date"></span>
+            <span class="footer-logo">Porfolio Website</span>
+            Shuashua
+        </p>
+    
+    </footer>
+    <!-- end of footer -->
+    
+    <!--Script-->
+    <script src="./app.js"></script>
+    
+    </body>
+    
+    </html>
