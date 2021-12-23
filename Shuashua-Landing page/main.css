@@ -42,7 +42,19 @@ body {
   color: #3b2621;
   background-color: #daccba;
 }
-
+/*
+=============== 
+Warning
+===============
+*/
+.development{
+  background: #c0dd1f;
+  margin: 0;
+}
+.development h5{
+  margin: 0;
+  text-align: center;
+}
 /*
 =============== 
 Navbar
