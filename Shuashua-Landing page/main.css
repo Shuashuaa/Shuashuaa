@@ -47,20 +47,20 @@ body {
 Warning
 ===============
 */
-.development{
+.development {
   background: #c0dd1f;
   margin: 0;
 }
-.development h5{
+.development h5 {
   margin: 0;
   text-align: center;
 }
+
 /*
 =============== 
 Navbar
 ===============
 */
-
 .navbar {
   display: flex;
   justify-content: center;
@@ -161,7 +161,7 @@ Navbar
     display: none;
   }
   .navbar {
-    height: 6rem;
+    height: 5rem;
   }
   .nav-center {
     display: flex;
@@ -183,7 +183,6 @@ Navbar
     padding: 0;
     margin-left: 3rem;
     font-size: 1rem;
-    /* background: var(--red-dark); */
   }
   .contact-link {
     margin-left: auto;
@@ -217,6 +216,20 @@ Hero
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+@media only screen and (max-width: 600px) {
+  .page {
+    width: 100%;
+  }
+
+  .hero img {
+    display: none;
+  }
+
+  .design-grid-container {
+    display: grid;
+    grid-template-rows: auto;
+  }
 }
 .hero-container {
   width: 500px;
@@ -595,6 +608,7 @@ Designs.html
   display: flex;
   justify-content: space-between;
   height: 170px;
+  /* for Responsive */
   width: 1000px;
   /* border: 2px solid #daccba; */
   border-radius: 10px 100px 100px 10px;
@@ -903,7 +917,7 @@ About
   flex-direction: column;
   padding: 10px;
   flex: 50%;
-  width: 897px;
+  /* width: 897px; */
 }
 #about-info {
   margin-top: 275px;
@@ -928,12 +942,34 @@ About
   padding: -5px;
   margin: 0;
   font-size: 17px;
+  font-weight: 500;
 }
 #about-education h3 {
   padding: 0;
   margin: 0;
   font-size: 13px;
+  font-weight: 500;
+  color: #694f4e;
+}
+#about-education h4 {
+  padding: 0;
+  margin: 0 0 10px 0;
+  font-size: 10px;
   font-weight: 400;
+  color: #694f4e;
+}
+#about-education h5 {
+  /* single h5 for margin bottom */
+  padding: 0;
+  margin: 0 0 13px 0;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 0.9;
+  color: #694f4e;
+}
+#about-education h3,
+h4 {
+  line-height: 1.1;
 }
 /* Text inside the boxes - BOTTOM */
 .about-flex-bottom {
