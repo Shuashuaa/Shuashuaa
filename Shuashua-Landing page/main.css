@@ -217,20 +217,7 @@ Hero
   flex-direction: row;
   justify-content: space-between;
 }
-@media only screen and (max-width: 600px) {
-  .page {
-    width: 100%;
-  }
 
-  .hero img {
-    display: none;
-  }
-
-  .design-grid-container {
-    display: grid;
-    grid-template-rows: auto;
-  }
-}
 .hero-container {
   width: 500px;
   height: 200px;
@@ -480,12 +467,26 @@ Start of Grid Design
 */
 .design-grid-container {
   display: grid;
-  grid-template-columns: auto auto auto;
-  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px 20px;
   /* background-color: #2196f3; */
   padding: 10px;
   margin-top: 200px;
 }
+
+@media only screen and (max-width: 700px) {
+  .hero img {
+    display: none;
+  }
+
+  .design-grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px 20px;
+    /* background-color: #2196f3; */
+  }
+}
+
 .grid-item {
   display: grid;
   grid-template-rows: 60% 30% 10%;
@@ -1213,3 +1214,4 @@ Footer
 .page-footer a {
   color: #9b9bf7;
 }
+
