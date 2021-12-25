@@ -510,7 +510,7 @@ Start of Grid Design
   /* Avatar */
   .hero img {
     /* display: none; */
-    position: absolute;
+    position: relative;
     top: 200px;
     right: 200px;
     padding: 0;
