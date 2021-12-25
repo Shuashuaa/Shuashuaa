@@ -342,6 +342,22 @@ Hero
 .info-Outline-btn-block {
   width: 100%;
 }
+
+@media only screen and (max-width: 600px) {
+  .hero-text-h1 {
+    font-size: 4em;
+  }
+  .hero-text-h2 {
+    font-size: 1.8em;
+  }
+  .info-btn {
+    display: none;
+  }
+  .info-Outline-btn {
+    display: none;
+  }
+}
+
 /* Design Button - "See more" */
 .design-btn {
   cursor: pointer;
