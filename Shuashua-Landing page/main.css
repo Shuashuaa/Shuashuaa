@@ -154,6 +154,14 @@ Navbar
   width: 200px;
 }
 
+/*                         Responsive Function for Header*/
+
+@media only screen and (max-width: 600px) {
+  .nav-header img {
+    width: 100px;
+  }
+}
+
 /*                         Responsive Function for Nav-links*/
 
 @media screen and (min-width: 1200px) {
