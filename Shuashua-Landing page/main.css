@@ -230,7 +230,7 @@ Hero
 @media only screen and (max-width: 600px) {
   
   .hero-container{
-    margin-left: 70px;
+    margin-left: 0;
   }
 }
 
