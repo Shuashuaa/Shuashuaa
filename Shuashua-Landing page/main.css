@@ -236,12 +236,18 @@ Hero
 }
 
 @media only screen and (max-width: 600px) {
-  
-  .hero-container{
-    margin-left: 0;
+  .page {
+    padding-top: 1rem;
+  }
+  .hero {
+    margin: 0 0 0 20px;
+  }
+  .hero-container {
     margin-top: 0;
+    margin-left: 0;
   }
 }
+
 
 .hero-text-h1 {
   color: #daccba;
