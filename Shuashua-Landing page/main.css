@@ -882,20 +882,28 @@ Designs.html
 
 @media only screen and (max-width: 600px) {
   .design-section-grid {
-  margin-top: 110px;
-}
+    margin-top: 110px;
+  }
   .overlapping-text-design {
-  position: absolute;
-  margin-bottom: 1075px;
-}
-  .design-box{
+    position: absolute;
+    margin-bottom: 1075px;
+  }
+  .design-box {
     width: 370px;
   }
-  #design-title-1{
+  .Text-grid-field {
+    height: 130px;
+    width: 250px;
+  }
+  .Text-grid-field h2 {
+    width: 200px;
+    line-height: 1.1;
+  }
+  #design-title-1 {
     margin-top: 80px;
     font-size: 30px;
   }
-  #design-subtitle-1{
+  #design-subtitle-1 {
     line-height: 0.5;
     font-size: 50px;
   }
