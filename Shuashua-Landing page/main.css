@@ -361,7 +361,7 @@ Hero
 1200 - pc
 ================================
 */
-@media screen and (max-width: 600px) and (min-width: 400px) {
+@media screen and (max-width: 600px) and (min-width: 375px) {
   /* Avatar */
   .hero img {
     /* display: none; */
