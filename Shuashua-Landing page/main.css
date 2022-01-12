@@ -366,10 +366,10 @@ Hero
   .hero img {
     /* display: none; */
     position: relative;
-    width: 100%;
+    width: 105%;
     top: 200px;
     right: 250px;
-    padding: 0 0 0 20px;
+/*     padding: 0 0 0 20px; */
   }
   /* Coffee */
   .hero-container img {
