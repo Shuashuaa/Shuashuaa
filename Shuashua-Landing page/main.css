@@ -1175,7 +1175,7 @@ Contact
   border-radius: 10px;
   padding: 5px;
   background-color: #daccba;
-  width: 650px;
+  width: 750px;
 }
 .form-left {
   padding: 15px;
@@ -1208,6 +1208,7 @@ Contact
   font-weight: 100;
   font-size: 15px;
   padding: 8px;
+  width: 100%;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
