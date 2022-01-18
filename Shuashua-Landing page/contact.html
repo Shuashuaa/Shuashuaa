@@ -22,7 +22,7 @@
         <div class="nav-center">
 
             <div class="nav-header">
-                <a href="index" class="nav-logo">
+                <a href="index.html" class="nav-logo">
                     <img src="./Assets/Logo.png" draggable="false" alt="Logo not found">
                 </a>
 
@@ -32,12 +32,12 @@
             </div>
 
             <div class="nav-links">
-                <a href="index" class="nav-link">home</a>
-                <a href="designs" class="nav-link">my designs</a>
-                <a href="About" class="nav-link" id="underline-link">about</a>
+                <a href="index.html" class="nav-link">home</a>
+                <a href="designs.html" class="nav-link">my designs</a>
+                <a href="About.html" class="nav-link" id="underline-link">about</a>
 
                 <div class="contact-link">
-                    <a href="contact" class="links-btn">contact</a>
+                    <a href="contact.html" class="links-btn">contact</a>
                 </div>
             </div>
         </div>
@@ -60,12 +60,21 @@
     <section class="form-bg">
 
         <div class="form-center">
+
+            <div class="form-right">
+                <i class="fas fa-envelope-open-text"></i>
+                <!-- <img src="https://play-lh.googleusercontent.com/HYbCzhAI27G_Hd2F-qPKHZJq6O7Xfrli6GjH-MPfCT5QeQdytUx_PxDE8idRqOn4lXQ"alt=""> -->
+            </div>
+            
             <form action="/action_page.php" class="form-left" method="post" autocomplete="off">
                 <h1>Let's work together</h1>
                 <div class="form-text">
-                    <input type="text" class="text" id="fname" name="fname" placeholder="First name" size="8">
-                    <input type="text" class="text" id="lname" name="lname" placeholder="Last name" size="8">
+                    <label for="fname">Name:</label>
+                    <label for="fname">Email:</label>
+                    <input type="text" class="text" id="fname" name="fname" placeholder="Name" size="8">
+                    <input type="text" class="text" id="lname" name="lname" placeholder="Email" size="8">
                 </div>
+                <label for="fname">Message:</label><br>
                 <textarea name="message" class="message" rows="7" cols="50" placeholder="message"></textarea><br>
                 <div class="form-button">
                     <input type="submit" class="submit" value="submit" onclick="alert('Thank you :)')">
@@ -73,18 +82,13 @@
                     <a href="https://mail.google.com/mail/u/0/?ogbl#inbox? compose=GTvVlcRwPxSPdVBqFNCXntnLhFgfHrPtMrMftHZBKCPTCJHkNDTCWWLvmpwpLXcxHwJCbqzDfGtdC">sykojuice021@gmail.com</a>
                 </div>
             </form>
-
-            <div class="form-right">
-                <i class="fas fa-envelope-open-text"></i>
-                <!-- <img src="https://play-lh.googleusercontent.com/HYbCzhAI27G_Hd2F-qPKHZJq6O7Xfrli6GjH-MPfCT5QeQdytUx_PxDE8idRqOn4lXQ"alt=""> -->
-            </div>
         </div>
         
     </section>
     <!-- end of main -->    
 
     <!-- footer -->
-    <footer class="page-footer">
+    <!-- <footer class="page-footer">
     
         <div class="footer-logo">
             <img src="./Assets/Logo.png" alt="">
@@ -95,8 +99,7 @@
             Shuashua
         </p>
     
-    </footer>
-    <!-- end of footer -->
+    </footer> -->
     
     <!--Script-->
     <script src="./app.js"></script>
