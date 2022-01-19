@@ -1186,7 +1186,7 @@ Contact
   font-size: 30px;
   color: #342f2b;
   padding: 0;
-  margin: 8px 0 18px 0;
+  margin: 8px 0 5px 0;
 }
 .form-text {
   display: grid;
@@ -1207,8 +1207,8 @@ Contact
 .form-left textarea {
   font-weight: 100;
   font-size: 15px;
-  padding: 8px;
   width: 100%;
+  padding: 8px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -1244,7 +1244,7 @@ Contact
   /* background: yellow; */
 }
 input[type="submit"] {
-  text-transform: capitalize;
+  text-transform: uppercase;
   font-family: "montserrat";
   font-weight: 600;
 }
@@ -1254,6 +1254,7 @@ input[type="submit"] {
 }
 .form-button h5 {
   margin: 0;
+  font-weight: 400;
 }
 .submit {
   font-weight: 500;
@@ -1273,22 +1274,32 @@ input[type="submit"] {
 @media screen and (max-width: 600px) and (min-width: 375px) {
   .form-center {
     display: block;
-    width: 390px;
+    width: 350px;
+  }
+  .form-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   .form-right {
     margin: 20px auto 0 auto;
     align-items: center;
+    width: 100%;
   }
   .form-right i {
     font-size: 150px;
     padding-left: 40px;
   }
   .form-left h1 {
-    margin: 8px 0 8px 0;
+    margin: 5px 0 5px 0;
   }
   .form-text {
     grid-template-rows: auto auto;
     margin: 0 0 5px 0;
+  }
+  .submit {
+    width: 100%;
+    margin-bottom: 5px;
   }
 }
 /*
@@ -1423,4 +1434,5 @@ Footer
 .page-footer a {
   color: #9f6443;
 }
+
 
