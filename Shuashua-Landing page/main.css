@@ -600,6 +600,28 @@ Start of Grid Design
   font-family: "Roboto", sans-serif;
   font-weight: 100;
 }
+
+@media screen and (max-width: 600px) and (min-width: 375px) {
+  .design-page {
+    height: 1000px;
+  }
+  .overlapping-text {
+    margin-bottom: 750px;
+  }
+  #design-title {
+    font-size: 20px;
+  }
+  #design-subtitle {
+    font-size: 40px;
+  }
+  .design-grid-container {
+    margin-top: 150px;
+  }
+  #grid-item-hide {
+    display: none;
+  }
+}
+
 /* 
 ================================
 Designs.html
@@ -1387,6 +1409,21 @@ SKILLS
   display: inline-block;
   margin-top: 25px;
 }
+
+@media screen and (max-width: 600px) and (min-width: 375px) {
+  .skill-section {
+    height: 700px;
+  }
+  .design-skills,
+  .development-skills,
+  .video-Audio-skills {
+    width: 350px;
+  }
+  .skill-grid li {
+    font-size: 0.5rem;
+  }
+}
+
 /*
 ================================
 MESSAGE
@@ -1404,6 +1441,23 @@ MESSAGE
 .message-text {
   align-items: center;
   justify-content: center;
+}
+
+@media screen and (max-width: 600px) and (min-width: 375px) {
+  .message img {
+    width: 300px;
+    height: 200px;
+  }
+  .message-text h1 {
+    font-size: 20px;
+  }
+  .message-text h5 {
+    margin: 0;
+  }
+  .message-text button {
+    width: 100px;
+    height: 50px;
+  }
 }
 /*
 ================================
@@ -1435,4 +1489,11 @@ Footer
   color: #9f6443;
 }
 
-
+@media screen and (max-width: 600px) and (min-width: 375px) {
+  .page-footer img {
+    width: 150px;
+  }
+  .page-footer p {
+    font-size: 10px;
+  }
+}
