@@ -114,7 +114,7 @@ Navbar
 }
 .nav-link {
   z-index: 2;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 100;
   text-decoration: none;
   display: block;
