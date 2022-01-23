@@ -114,7 +114,7 @@ Navbar
 }
 .nav-link {
   z-index: 2;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 1.5rem;
   text-decoration: none;
@@ -1351,7 +1351,7 @@ SKILLS
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 .design-skills {
   display: flex;
@@ -1363,18 +1363,23 @@ SKILLS
   width: 600px;
   margin-bottom: 20px;
 }
+.design-skills h1 {
+  font-size: 1.5em;
+  color: #daccba;
+  margin: 1.5em 0;
+}
 .skill-grid {
   display: flex;
   flex-direction: row;
   padding: 0;
-  margin: 0 0 20px 0;
+  margin: 0 0 30px 0;
 }
 .skill-grid li {
   justify-content: center;
   align-items: center;
   margin: 0 10px 0 10px;
   list-style: none;
-  background: chartreuse;
+  background: #daccba;
   border-radius: 5px;
   padding: 0 5px 0 5px;
 }
@@ -1383,20 +1388,30 @@ SKILLS
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #553419;
+  background: #342f2b;
   border-radius: 10px;
   width: 600px;
   margin-bottom: 20px;
+}
+.development-skills h1 {
+  font-size: 1.5em;
+  color: #daccba;
+  margin: 1.5em 0;
 }
 .video-Audio-skills {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #19551c;
-  border-radius: 10px;
+  background: #342f2b;
   width: 600px;
+  border-radius: 10px;
   margin-bottom: 20px;
+}
+.video-Audio-skills h1 {
+  font-size: 1.5em;
+  color: #daccba;
+  margin: 1.5em 0;
 }
 .skills-button {
   cursor: pointer;
@@ -1416,15 +1431,19 @@ SKILLS
 
 @media screen and (max-width: 600px) and (min-width: 375px) {
   .skill-section {
-    height: 700px;
+    height: 800px;
   }
   .design-skills,
   .development-skills,
   .video-Audio-skills {
     width: 350px;
   }
+  .video-Audio-skills {
+    align-items: center;
+    text-align: center;
+  }
   .skill-grid li {
-    font-size: 0.5rem;
+    font-size: 0.75rem;
   }
 }
 
@@ -1501,4 +1520,3 @@ Footer
     font-size: 10px;
   }
 }
-
