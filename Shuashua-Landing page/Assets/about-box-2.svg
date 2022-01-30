@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1110" height="917" viewBox="0 0 1110 917">
+  <defs>
+    <filter id="Rectangle_22" x="0" y="0" width="1110" height="917" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Second_Box" data-name="Second Box" transform="translate(-643.5 -1160.5)">
+    <g transform="matrix(1, 0, 0, 1, 643.5, 1160.5)" filter="url(#Rectangle_22)">
+      <g id="Rectangle_22-2" data-name="Rectangle 22" transform="translate(12.5 12.5)" fill="#daccba" stroke="#fff" stroke-width="5">
+        <rect width="1065" height="872" rx="5" stroke="none"/>
+        <rect x="2.5" y="2.5" width="1060" height="867" rx="2.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Experience">
+      <g id="Experience-2" data-name="Experience" transform="translate(-5 517)">
+        <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="31.104" cy="30.258" rx="31.104" ry="30.258" transform="translate(742 767)" fill="#3b2621"/>
+        <path id="mouse-solid" d="M0,27.55A12.731,12.731,0,0,0,12.929,40.073H18.1A12.731,12.731,0,0,0,31.031,27.55V17.532H0ZM14.222,0H12.929A12.731,12.731,0,0,0,0,12.523v2.5H14.222ZM18.1,0H16.808V15.028H31.031v-2.5A12.731,12.731,0,0,0,18.1,0Z" transform="translate(757.629 777.459)" fill="#daccba"/>
+      </g>
+      <line id="Line_2" data-name="Line 2" x1="1" y2="583" transform="translate(767.5 1342.5)" fill="none" stroke="#694f4e" stroke-width="5"/>
+      <g id="Internship" transform="translate(0 532)">
+        <ellipse id="Ellipse_-_College" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" transform="translate(749 840)" fill="#3b2621"/>
+      </g>
+      <g id="Telephone_TroubleShooting" data-name="Telephone TroubleShooting" transform="translate(0 640)">
+        <ellipse id="Ellipse_-_College-2" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" transform="translate(749 840)" fill="#3b2621"/>
+      </g>
+      <g id="Network_Troubleshooting" data-name="Network Troubleshooting" transform="translate(0 695)">
+        <ellipse id="Ellipse_-_College-3" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" transform="translate(749 840)" fill="#3b2621"/>
+      </g>
+      <g id="Computer_-_Hardware_and_" data-name="Computer - Hardware and " transform="translate(0 750)">
+        <ellipse id="Ellipse_-_College-4" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" transform="translate(749 840)" fill="#3b2621"/>
+      </g>
+      <g id="Computer_Software_Hardware" data-name="Computer Software, Hardware" transform="translate(0 829)">
+        <ellipse id="Ellipse_-_College-5" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" transform="translate(749 840)" fill="#3b2621"/>
+      </g>
+      <g id="Network_Troubleshooting-2" data-name="Network Troubleshooting" transform="translate(0 908)">
+        <ellipse id="Ellipse_-_College-6" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" transform="translate(749 840)" fill="#3b2621"/>
+      </g>
+    </g>
+    <g id="Technical_Skills" data-name="Technical Skills" transform="translate(540)">
+      <g id="Experience-3" data-name="Experience" transform="translate(737 1284)">
+        <ellipse id="Ellipse_14-2" data-name="Ellipse 14" cx="31.104" cy="30.258" rx="31.104" ry="30.258" fill="#3b2621"/>
+        <path id="cog-solid" d="M60.107,35.232l-3.768-2.17a16.945,16.945,0,0,0,0-6.192l3.768-2.17a1.065,1.065,0,0,0,.486-1.235,21.955,21.955,0,0,0-4.838-8.345,1.066,1.066,0,0,0-1.309-.2l-3.768,2.17a16.7,16.7,0,0,0-5.378-3.1V9.66a1.057,1.057,0,0,0-.831-1.032,22.3,22.3,0,0,0-9.659,0,1.057,1.057,0,0,0-.831,1.032V14A17.232,17.232,0,0,0,28.6,17.1l-3.759-2.17a1.053,1.053,0,0,0-1.309.2,21.823,21.823,0,0,0-4.838,8.345,1.054,1.054,0,0,0,.486,1.235l3.768,2.17a16.945,16.945,0,0,0,0,6.192l-3.768,2.17a1.065,1.065,0,0,0-.486,1.235,21.955,21.955,0,0,0,4.838,8.345,1.066,1.066,0,0,0,1.309.2l3.768-2.17a16.7,16.7,0,0,0,5.378,3.1v4.34a1.057,1.057,0,0,0,.831,1.032,22.3,22.3,0,0,0,9.659,0,1.057,1.057,0,0,0,.831-1.032V45.95a17.232,17.232,0,0,0,5.378-3.1l3.768,2.17a1.053,1.053,0,0,0,1.309-.2A21.823,21.823,0,0,0,60.6,36.476,1.088,1.088,0,0,0,60.107,35.232ZM39.639,37.023a7.057,7.057,0,1,1,7.076-7.057A7.076,7.076,0,0,1,39.639,37.023Z" transform="translate(-8.77 0.151)" fill="#daccba"/>
+      </g>
+      <line id="Line_2-2" data-name="Line 2" x1="1" y2="583" transform="translate(767.5 1342.5)" fill="none" stroke="#694f4e" stroke-width="5"/>
+      <g id="Internship-2" data-name="Internship" transform="translate(749 1374.959)">
+        <ellipse id="Ellipse_-_College-7" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" fill="#3b2621"/>
+      </g>
+      <g id="Telephone_TroubleShooting-2" data-name="Telephone TroubleShooting" transform="translate(749 1432.37)">
+        <ellipse id="Ellipse_-_College-8" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" fill="#3b2621"/>
+      </g>
+      <g id="Network_Troubleshooting-3" data-name="Network Troubleshooting" transform="translate(749 1565.833)">
+        <ellipse id="Ellipse_-_College-9" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" fill="#3b2621"/>
+      </g>
+      <g id="Network_Troubleshooting-4" data-name="Network Troubleshooting" transform="translate(749 1669.756)">
+        <ellipse id="Ellipse_-_College-10" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" fill="#3b2621"/>
+      </g>
+      <g id="Design" transform="translate(749 1773)">
+        <ellipse id="Ellipse_-_College-11" data-name="Ellipse - College" cx="19" cy="18.5" rx="19" ry="18.5" fill="#3b2621"/>
+      </g>
+    </g>
+  </g>
+</svg>
