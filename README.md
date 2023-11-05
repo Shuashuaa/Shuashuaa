@@ -2,7 +2,8 @@
 <h1 align='center'>Hello👋, I'm Joshua Tania!</h1>
 
 An Aspiring Full-Stack Developer and A Passionate Front-End Developer, Currently Working as a Full-Stack Web Developer at H.R.D Singapore Pte., Ltd.
-
+<br>
+![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 #
 
 - 🌱 Currently improving my skills on **Vuejs3**, **Vite**, **Pinia** and **Laravel9**
