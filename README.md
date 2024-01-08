@@ -1,7 +1,7 @@
 <img align="center" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align='center'>Hello👋, I'm Joshua Tania!</h1>
 
-An Aspiring Full-Stack Developer and A Passionate Front-End Developer, Currently Working as a Full-Stack Web Developer.
+A Passionate Front-end Developer and an aspiring full-stack developer focusing on Web App Development, Currently using Vuejs3, Vuetify3, Vite & Pinia.
 <br>
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 #
