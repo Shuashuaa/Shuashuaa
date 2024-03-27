@@ -13,8 +13,8 @@ A Passionate Front-end Developer and an aspiring full-stack developer focusing o
 
 <h2>Dev Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,vite,laravel,tailwind,netlify,webpack,mysql,bootstrap,git,github,gitlab,babel,firebase,jquery,nodejs,php,postman,sass,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,vite,vuetify,pinia,laravel,tailwind,netlify,webpack,mysql,git,github,gitlab,babel,firebase,yarn,npm,jquery,nodejs,php,bootstrap,postman,sass,sqlite)](https://skillicons.dev)
 
 <h2>Design, Graphics and Docs Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ae,ps,xd,discord,codepen,gcp,stackoverflow,sketchup,svg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ae,ps,xd,discord,codepen,stackoverflow,sketchup)](https://skillicons.dev)
