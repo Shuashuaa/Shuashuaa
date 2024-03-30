@@ -6,8 +6,8 @@ A Passionate Front-end Developer and an aspiring full-stack developer focusing o
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 #
 
-- 🌱 Currently improving my skills on **Vuejs3**, **TailwindCss**, **Vite**, **Pinia** and **Laravel9**
-- 🌱 Currently learning **New Front-end trends**
+- 🌱 Currently improving my skills on **Vuejs3**, **TailwindCss**, **Vite**, **Pinia** and **Laravel**
+- 🌱 Currently learning **New Front-end trends & Technologies**
 - 🌱 Currently working on **Web Applications**
 - 📫 Reach me at: **jovijoshuatania027@gmail.com**
 
