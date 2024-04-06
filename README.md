@@ -3,9 +3,8 @@
 
 A passionate full-stack developer who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development. Currently, I'm using Vue.js 3, Pinia, Vite, Tailwind CSS, and Laravel.
 <br>
-![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 #
-
+![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 - 🌱 Currently improving my skills on **Vuejs3**, **TailwindCss**, **Vite**, **Pinia** and **Laravel**
 - 🌱 Currently learning **New Front-end trends & Technologies**
 - 🌱 Currently working on **Web Applications**
