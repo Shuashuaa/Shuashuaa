@@ -1,7 +1,7 @@
 <img align="center" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align='center'>Hello👋, I'm Joshua Tania!</h1>
 
-A passionate full-stack developer who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development. Currently, I'm using Vue.js 3, Pinia, Vite, Tailwind CSS, and Laravel.
+A passionate full-stack developer who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development. Currently, I'm using Vuejs3, Pinia, Vite, Tailwind CSS, and Laravel.
 <br>
 #
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
