@@ -16,4 +16,4 @@ A passionate full-stack developer who enjoys solving problems, creating retina d
 
 <h2>Design, Graphics and Docs Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ae,ps,xd,discord,stackoverflow,sketchup)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ae,ps,xd)](https://skillicons.dev)
