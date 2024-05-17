@@ -12,7 +12,7 @@ A passionate full-stack developer who enjoys solving problems, creating retina d
 
 <h2>Dev Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vite,vuetify,pinia,laravel,tailwind,netlify,webpack,mysql,git,github,gitlab,babel,firebase,yarn,npm,nodejs,php,bootstrap,postman,sass,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vite,vuetify,pinia,laravel,tailwind,netlify,webpack,mysql,git,github,gitlab,firebase,yarn,npm,nodejs,php,bootstrap,postman)](https://skillicons.dev)
 
 <h2>Design, Graphics and Docs Tools</h2>
 
