@@ -1,11 +1,12 @@
 <br>
 A passionate full-stack developer from PH who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development.
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 #
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 <!-- - 🌱 Currently learning **New Front-end trends & Technologies** --> 
 - 🌱 Currently using and improving my skills on **Vuejs3**, **Typescript**, **TailwindCss**, and **Laravel**
-- 🌱 Currently working on **Web Applications and NPM Packages**
+- 🌱 Currently working on **Web Applications**
 - 📫 Reach me at: **jovijoshuatania027@gmail.com**
 
 <h2>Dev Tools</h2>
