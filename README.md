@@ -1,16 +1,13 @@
-## Hi there 👋
+<br>
+A passionate full-stack developer from PH who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development.
 
-<!--
-**Shuashuaa/shuashuaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
+<!-- - 🌱 Currently learning **New Front-end trends & Technologies** --> 
+- 🌱 Currently using and improving my skills on **Vuejs3**, **Typescript**, **TailwindCss**, and **Laravel**
+- 🌱 Currently working on **Web Applications and NPM Packages**
+- 📫 Reach me at: **jovijoshuatania027@gmail.com**
 
-Here are some ideas to get you started:
+<h2>Dev Tools</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vite,tailwind,pinia,laravel,mysql,postman,github,npm,nodejs,figma)](https://skillicons.dev)
