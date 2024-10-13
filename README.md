@@ -1,4 +1,3 @@
-<br>
 A passionate full-stack developer from PH who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development.
 
 #
