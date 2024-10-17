@@ -9,4 +9,4 @@ A passionate full-stack developer from PH who enjoys solving problems, creating 
 
 <h2>Dev Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vite,tailwind,pinia,laravel,mysql,postman,github,npm,nodejs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vite,tailwind,pinia,laravel,mysql,postman,git,npm,nodejs,figma)](https://skillicons.dev)
