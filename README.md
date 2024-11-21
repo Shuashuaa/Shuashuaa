@@ -1,4 +1,6 @@
-A passionate full-stack developer from PH who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development.
+<!--banner-->
+<h4 align="center">A passionate full-stack web developer from the Philippines</h4>
+<!-- who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development. -->
 
 #
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
