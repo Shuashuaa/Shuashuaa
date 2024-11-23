@@ -1,5 +1,5 @@
 <!--banner-->
-<h4 align="center">A passionate full-stack web developer from the Philippines</h4>
+<p align="center">A passionate full-stack web developer from the Philippines</p>
 <!-- who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development. -->
 
 #
