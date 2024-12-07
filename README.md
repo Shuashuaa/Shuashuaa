@@ -1,5 +1,5 @@
 <!--banner-->
-<p align="center">A passionate full-stack web developer from the Philippines</p>
+<p align="center">A passionate full-stack web developer from the Philippines.</p>
 <!-- who enjoys solving problems, creating retina display-ready user interfaces, exploring the latest trends and technologies, and focusing on web app development. -->
 <!-- I have been fascinated by web design since my college days. I discovered that while web designs can be visually stunning, they also require programming to function effectively. This realization ignited my passion for web development, particularly in front-end development. Over the past three years, I have gained experience in web app development and continue to enhance my skills in both front-end and overall software development.
 
