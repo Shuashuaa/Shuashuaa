@@ -14,4 +14,4 @@
 
 <h2>Dev Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vite,tailwind,laravel,mysql,postman,git,npm,nodejs,figma,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,vue,vite,tailwind,laravel,mysql,postman,git,npm,figma,aws)](https://skillicons.dev)
