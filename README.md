@@ -8,8 +8,11 @@
 #-->
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 <!-- - 🌱 Currently learning **New Front-end trends & Technologies** --> 
-- 🌱 Currently using and improving my skills on **Vuejs3**, **Typescript**, **TailwindCss**, and **Laravel11**
+
+- ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCss**
+- 🌱 Currently learning **Typescript**
 - 🌱 Currently working on **Web Applications** and **NPM Packages**
+<!-- AI Systems-->
 - 📫 Reach me at: **jovijoshuatania027@gmail.com**
 
 <h2>Dev Tools</h2>
