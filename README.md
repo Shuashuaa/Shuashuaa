@@ -11,7 +11,7 @@
 
 - ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCss**
 - 🌱 Currently learning **Reactjs**, **Shadcn/ui** & **Typescript**
-- 👨🏻‍💻 Currently working on **Web Applications** and **NPM Packages**
+- 👨🏻‍💻 Currently working on **Web Applications**
 <!-- AI Systems-->
 - 📫 Reach me at: **jovijoshuatania027@gmail.com**
 
