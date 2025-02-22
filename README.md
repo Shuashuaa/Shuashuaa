@@ -10,7 +10,7 @@
 <!-- - 🌱 Currently learning **New Front-end trends & Technologies** --> 
 
 - ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCss**
-- 🌱 Currently learning **Reactjs**, **Redux** & **Typescript**
+- 🌱 Currently learning **Reactjs**, **Shadcn/ui**, **zod** & **Typescript**
 - 👨🏻‍💻 Currently working on **Web Applications** and **NPM Packages**
 <!-- AI Systems-->
 - 📫 Reach me at: **jovijoshuatania027@gmail.com**
