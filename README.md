@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 <!-- - 🌱 Currently learning **New Front-end trends & Technologies** --> 
 
-- ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCss**
+- ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCSS**
 - 🌱 Currently learning **Reactjs**, **React-Router**, **Shadcn/ui** & **Typescript**
 - 👨🏻‍💻 Currently working on **Web Applications**
 <!-- AI Systems-->
