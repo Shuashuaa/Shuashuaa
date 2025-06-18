@@ -8,9 +8,9 @@
 #-->
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 <!-- - 🌱 Currently learning **New Front-end trends & Technologies** --> 
-
-- ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCSS**
-- 🌱 Currently learning **Reactjs**, **React-Router**, **Shadcn/ui** & **Typescript**
+<!--- ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCSS** -->
+- ✨ Currently using and improving my skills on **Reactjs**, **React-Router** & **AWS**
+- 🌱 Currently learning **Ant Design**, **Redux** & **Typescript**
 - 👨🏻‍💻 Currently working on **Web Applications**
 <!-- AI Systems-->
 - 📫 Reach me at: **jovijoshuatania027@gmail.com**
@@ -18,4 +18,5 @@
 <h2>Dev Tools</h2>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,vue,vite,tailwind,laravel,mysql,postman,git,npm,figma,aws)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=react,react-router,ant-design,aws)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vite,tailwind,laravel,mysql,postman,git,npm,figma,aws,firebase)](https://skillicons.dev)
