@@ -18,5 +18,5 @@
 <h2>Dev Tools</h2>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,vue,vite,tailwind,laravel,mysql,postman,git,npm,figma,aws)](https://skillicons.dev) -->
-[![My Skills](https://skillicons.dev/icons?i=react,ts,dynamodb,redux,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,dynamodb,redux,selenium,aws)](https://skillicons.dev)
 <!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vite,tailwind,laravel,mysql,postman,git,npm,figma,aws,firebase)](https://skillicons.dev) -->
