@@ -10,7 +10,7 @@
 <!-- - 🌱 Currently learning **New Front-end trends & Technologies** --> 
 <!--- ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCSS** -->
 - ✨ Currently using and improving my skills on **Reactjs**, **React-Router**, **Redux**, **Typescript** & **AWS**
-- 🌱 Currently learning **Ant Design**, **Tiptap**, & **Selenium**
+- 🌱 Currently learning **NestJs** & **MongoDB**
 - 👨🏻‍💻 Currently working on **Web Applications**
 <!-- AI Systems-->
 - 📫 Reach me at: **jovijoshuatania027@gmail.com**
