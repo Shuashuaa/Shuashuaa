@@ -12,8 +12,8 @@
 - ✨ Currently using and improving my skills on **Reactjs**, **React-Router**, **Redux**, **Typescript** & **AWS**
 - 🌱 Currently learning **NestJs** & **MongoDB**
 - 👨🏻‍💻 Currently working on **Web Applications**
-<!-- AI Systems-->
-- 📫 Reach me at: **jovijoshuatania027@gmail.com**
+<!-- AI Systems
+- 📫 Reach me at: **jovijoshuatania027@gmail.com** -->
 
 [![My Skills](https://skillicons.dev/icons?i=ts,mongodb,nest,aws)](https://skillicons.dev)
 <!-- <h2>Dev Tools</h2>
