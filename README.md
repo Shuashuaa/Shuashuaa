@@ -9,11 +9,13 @@
 ![](https://komarev.com/ghpvc/?username=shuashuaa&style=for-the-badge)
 <!-- - 🌱 Currently learning **New Front-end trends & Technologies** --> 
 <!--- ✨ Currently using and improving my skills on **Vuejs3**, **Inertiajs**, **Laravel11** & **TailwindCSS** -->
-- ✨ Currently using and improving my skills on **AWS**
-- 🌱 Currently learning **NestJs** & **MongoDB**
+- ✨ Currently enhancing my skills in **AWS**
+- 🌱 Exploring and learning **NestJs** & **MongoDB**
 - 👨🏻‍💻 Currently working on **Web Applications**
 <!-- AI Systems
 - 📫 Reach me at: **jovijoshuatania027@gmail.com** -->
+
+---
 
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 <!-- <h2>Dev Tools</h2>
