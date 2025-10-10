@@ -15,7 +15,7 @@
 <!-- AI Systems
 - 📫 Reach me at: **jovijoshuatania027@gmail.com** -->
 
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,mongodb,aws)](https://skillicons.dev)
 <!-- <h2>Dev Tools</h2>
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,vue,vite,tailwind,laravel,mysql,postman,git,npm,figma,aws)](https://skillicons.dev) -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwindcss,dynamodb,redux,selenium,aws)](https://skillicons.dev)
